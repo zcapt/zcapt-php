@@ -1,0 +1,16 @@
+{
+  "name": "zcapt/zcapt-php",
+  "license": "MIT",
+  "description": "PHP server side for zcapt",
+  "homepage": "http://zcapt.org",
+  "keywords": [
+    "captcha", "zcapt"
+  ],
+  "support": {
+    "issues": "https://github.com/zcapt/zcapt-php/issues"
+  },
+  "require": {
+    "ext-mysqli": "*",
+    "ext-gd": "*"
+  }
+}
